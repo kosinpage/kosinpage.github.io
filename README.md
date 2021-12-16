@@ -1,4 +1,4 @@
-# 최원영과 이소민의 결혼식 모바일 청첩장
+# 2022 부산노회 신년감사예배
 ![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)
 
 이 repository는 고신총회 부산노회 신년감사예배 및 인사회 준비위원회 초청장을 위해 만들어진 페이지입니다.
