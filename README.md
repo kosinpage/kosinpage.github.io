@@ -1,9 +1,9 @@
 # 2022 부산노회 신년감사예배
-![date](https://img.shields.io/date/1558189800.svg?style=for-the-badge)
+![date]
 
 이 repository는 고신총회 부산노회 신년감사예배 및 인사회 준비위원회 초청장을 위해 만들어진 페이지입니다.
 
-![메인사진](https://github.com/AndersonChoi/wedding-card/raw/master/docs/images/pic2.jpeg)
+![메인사진]()
 
 ## 정보
 
